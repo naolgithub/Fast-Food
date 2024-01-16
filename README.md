@@ -15,7 +15,7 @@ The Fast Food Menu App is designed to provide users with a delightful experience
 
 ## Screenshots
 
-![Home Screen](assets/screenshot1.jpg)
+![Home Screen](https://i.postimg.cc/rwpgR9zR/screenshot1.png)
 ![Home Screen](https://github.com/naolgithub/Fast-Food/blob/main/assets/screenshot2.jpg)
 ![Detail Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/screenshot3.jpg)
 ![Detail Screen](https://github.com/umarazizdev/Konstructora/blob/main/assets/screenshot4.jpg)
